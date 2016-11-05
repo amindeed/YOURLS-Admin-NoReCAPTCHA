@@ -12,7 +12,7 @@ Installation
 * In `/user/plugins`, create a new folder named `admin-norecaptcha`
 * Drop these files in that directory
 * Go to the Plugins administration page and activate the plugin
-* Go to the page `Admin NoCaptcha Settings` under `Manage Plugins` and add your keys
+* Go to the page `Admin NoCaptcha Settings` under `Manage Plugins` and add [your keys](https://www.google.com/recaptcha/admin)
 * Logout and login again to see the changes
 
 License
