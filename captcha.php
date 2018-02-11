@@ -8,8 +8,8 @@
 require_once "autoload.php";
 
 // Register API keys at https://www.google.com/recaptcha/admin
-$siteKey = yourls_get_option( 'adminnocaptcha_pub_key' );
-$secret = yourls_get_option( 'adminnocaptcha_priv_key' );
+$siteKey = yourls_get_option( 'adminnorecaptcha_pub_key' );
+$secret = yourls_get_option( 'adminnorecaptcha_priv_key' );
 
 // More languages: https://developers.google.com/recaptcha/docs/language
 $lang = "en";
